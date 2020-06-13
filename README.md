@@ -1,1 +1,1 @@
-from left and right
+from right
